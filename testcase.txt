@@ -1,0 +1,1 @@
+(deep3d_pytorch) jamprakash@fermi:~/amit/face_3d/Deep3DFaceRecon_pytorch$ python test.py --name=model --epoch=20 --img_folder=./datasets/examples
